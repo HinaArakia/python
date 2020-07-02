@@ -14,4 +14,4 @@ while debt > 0:
     else:
         repayment = debt
         debt = 0
-    print("{}か月目 : 返済額={}円,返済完了".format(month,repayment)) 
+    print("{}か月目 : 返済額={}円,返済完了".format(month,repayment)
