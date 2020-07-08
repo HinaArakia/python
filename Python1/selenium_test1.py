@@ -21,7 +21,7 @@ element = driver.find_element_by_id("send_btn")
 element.send_keys("keysToSend")
 element.click()
 
-#実行結果を表示する為に5秒待機
+#実行結果を表示する為に5秒待機する
 time.sleep(5)
 
 #課題2
